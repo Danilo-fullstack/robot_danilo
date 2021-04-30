@@ -12,5 +12,5 @@ curl -sO https://danilo-fullstack.github.io/robot_danilo/robot_danilo && chmod 7
 - Logo após a primeira execução bem sucedida do script, nas proximas vezes que quiser executa-lo basta apenas este comando:
 ./robot_danilo
 
-Dependencias:
+Dependencia:
 - Curl (sudo apt install curl)
