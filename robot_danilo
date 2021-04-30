@@ -7,9 +7,9 @@ clear
 #echo -e "$MSGS"; sleep 2.5; clear
 #echo -e "$IMG1"; sleep 2.5
 echo
-echo -e "\e[01;37;41m •                    ROBOT DANILO                    • \e[0m"
+echo -e "\e[01;37;41m •          ROBOT DANILO         • \e[0m"
 echo
-echo -e "\e[01;37;41m • OLA, MEU NOME E DANILO E ESTOU AQUI PARA TE AJUDAR • \e[0m"
+echo -e "\e[01;37;41m • OLA, ESTOU AQUI PARA TE AJUDAR • \e[0m"
 sleep .5
 echo
 echo
